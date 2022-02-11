@@ -1,0 +1,16 @@
+.form-group {
+  position: relative;
+  overflow: hidden;
+}
+
+.form-group input[type="text"] {
+  height: 50px;
+}
+
+.form-group .submit-btn {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 25px;
+}

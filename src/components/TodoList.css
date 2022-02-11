@@ -1,0 +1,11 @@
+.todoList .todo {
+  padding: 10px;
+  background-color: #4748d5;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.favourite .btn-secondary:focus,
+.favourite .favourite-btn {
+  color: #e57729;
+}
